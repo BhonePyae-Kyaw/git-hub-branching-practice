@@ -5,16 +5,16 @@ While taking a course, I created these notes to simplify and visualize Git branc
 ## Images
 
 ### 1. Fast Forward Merge
-![Fast Forward Merge](Fast_Forward_Merge.png)
+![Fast Forward Merge](git_notes/Fast_Forward_Merge.png)
 
 ### 2. Different History Scenario with Fast Forward Merge
 ## a. Rebase
 ## b. 3 ways merge
-![Different History Scenario](different_history_scenario.png)
+![Different History Scenario](git_notes/different_history_scenerio.png)
 
 ### 3. No Fast Forward Merge
-![No Fast Forward Merge](No_FF_merge.png)
+![No Fast Forward Merge](git_notes/No_FF_merge.png)
 
 ### 4. Squash Merge
-![Squash Merge](squash_merge.png)
+![Squash Merge](git_notes/squash_merge.png)
 

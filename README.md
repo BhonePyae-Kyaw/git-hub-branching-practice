@@ -1,5 +1,6 @@
 # Git Merging Concepts
 
+These are some of my notes while learning different git merging concepts.
 This repository contains a simplified guide to understanding Git branching and merging strategies. These notes were created to visualize and explain different scenarios you may encounter while working with Git. Whether you're brushing up on the basics or diving deeper, this guide aims to make these concepts easier to understand.
 
 ---
